@@ -18,6 +18,7 @@ public class pravin {
 		System.out.println("value of a "+p.a);
 		p.a=223;
 		System.out.println("Value of a "+p.a);
+		System.out.println("value of a");
 		
 	}
 
